@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Creating miracles :sparkles:","sleeping... :sleeping:","Type /help","building rome"];
+const statusMessages = ["Creating miracles!","Sleeping...","Type /help","building rome in a day","Moderating","Playing Minecraft"];
 
 
 let currentIndex = 0;
